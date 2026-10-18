@@ -1,0 +1,8 @@
+/bin/
+/obj/
+/lib/
+/ui/
+web/node_modules/
+*.exe
+*.pdb
+__pycache__/

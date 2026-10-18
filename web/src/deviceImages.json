@@ -1,0 +1,3220 @@
+{
+ "GMMK3PROHE100WirelessANSI": {
+  "image": "Keyboard_Magneton100",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton100-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton100-white.webp"
+   }
+  ]
+ },
+ "GMMKNumpad": {
+  "image": "Keyboard_GMMKNumpad",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKNumpad-black.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE65WirelessANSI": {
+  "image": "Keyboard_Magneton65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton65-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE75WirelessANSI": {
+  "image": "Keyboard_Magneton75",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton75-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton75-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE100WirelessISO": {
+  "image": "Keyboard_Magneton100ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton100ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton100ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE75WirelessISO": {
+  "image": "Keyboard_Magneton75ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton75ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton75ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE65WirelessISO": {
+  "image": "Keyboard_Magneton65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton65-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE65WiredANSI": {
+  "image": "Keyboard_Magneton65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton65-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE65WiredISO": {
+  "image": "Keyboard_Magneton65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton65-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE75WiredANSI": {
+  "image": "Keyboard_Magneton75",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton75-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton75-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE75WiredISO": {
+  "image": "Keyboard_Magneton75ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton75ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton75ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO100WirelessANSI": {
+  "image": "Keyboard_Onix100Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix100Wireless-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix100Wireless-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO100WirelessISO": {
+  "image": "Keyboard_Onix100WirelessISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix100WirelessISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix100WirelessISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO75WirelessANSI": {
+  "image": "Keyboard_Onix75Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix75Wireless-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix75Wireless-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO75WirelessISO": {
+  "image": "Keyboard_Onix75WirelessISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix75WirelessISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix75WirelessISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO65WirelessANSI": {
+  "image": "Keyboard_Onix65Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix65Wireless-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix65Wireless-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO65WirelessISO": {
+  "image": "Keyboard_Onix65WirelessISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix65WirelessISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix65WirelessISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO100WiredANSI": {
+  "image": "Keyboard_Onix100",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix100-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix100-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO100WiredISO": {
+  "image": "Keyboard_Onix100ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix100ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix100ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO75WiredANSI": {
+  "image": "Keyboard_Onix75",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix75-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix75-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO75WiredISO": {
+  "image": "Keyboard_Onix75ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix75ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix75ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO65WiredANSI": {
+  "image": "Keyboard_Onix65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix65-white.webp"
+   }
+  ]
+ },
+ "GMMK3PRO65WiredISO": {
+  "image": "Keyboard_Onix65ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Onix65ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Onix65ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3HE100WiredANSI": {
+  "image": "Keyboard_DittoHE100",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_DittoHE100-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_DittoHE100-white.webp"
+   }
+  ]
+ },
+ "GMMK3HE100WiredISO": {
+  "image": "Keyboard_DittoHE100ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_DittoHE100ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_DittoHE100ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3HE75WiredANSI": {
+  "image": "Keyboard_DittoHE75",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_DittoHE75-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_DittoHE75-white.webp"
+   }
+  ]
+ },
+ "GMMK375WiredISO": {
+  "image": "Keyboard_Ditto75ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Ditto75ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Ditto75ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3HE75WiredISO": {
+  "image": "Keyboard_DittoHE75ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_DittoHE75ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_DittoHE75ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3HE65WiredANSI": {
+  "image": "Keyboard_DittoHE65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_DittoHE65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_DittoHE65-white.webp"
+   }
+  ]
+ },
+ "GMMK3HE65WiredISO": {
+  "image": "Keyboard_DittoHE65ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_DittoHE65ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_DittoHE65ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK3100WiredANSI": {
+  "image": "Keyboard_Ditto100",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Ditto100-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Ditto100-white.webp"
+   }
+  ]
+ },
+ "GMMK3100WiredISO": {
+  "image": "Keyboard_Ditto100ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Ditto100ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Ditto100ISO-white.webp"
+   }
+  ]
+ },
+ "GMMK375WiredANSI": {
+  "image": "Keyboard_Ditto75",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Ditto75-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Ditto75-white.webp"
+   }
+  ]
+ },
+ "GMMK365WiredANSI": {
+  "image": "Keyboard_Ditto65",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Ditto65-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Ditto65-white.webp"
+   }
+  ]
+ },
+ "GMMK365WiredISO": {
+  "image": "Keyboard_Ditto65ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Ditto65ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Ditto65ISO-white.webp"
+   }
+  ]
+ },
+ "GMMKPROANSI": {
+  "image": "Keyboard_GMMKPRO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKPRO-black.webp"
+   }
+  ]
+ },
+ "GMMKPROISO": {
+  "image": "Keyboard_GMMKPROISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKPROISO-black.webp"
+   }
+  ]
+ },
+ "GMMKV265ANSI": {
+  "image": "Keyboard_GMMKV265US",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKV265US-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_GMMKV265US-white.webp"
+   },
+   {
+    "id": "pink",
+    "label": "Pink",
+    "hex": "#F7C7D9",
+    "file": "Keyboard_GMMKV265US-pink.webp"
+   }
+  ]
+ },
+ "GMMKV265ISO": {
+  "image": "Keyboard_GMMKV265ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKV265ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_GMMKV265ISO-white.webp"
+   },
+   {
+    "id": "pink",
+    "label": "Pink",
+    "hex": "#F7C7D9",
+    "file": "Keyboard_GMMKV265ISO-pink.webp"
+   }
+  ]
+ },
+ "GMMKV296ANSI": {
+  "image": "Keyboard_GMMKV296US",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKV296US-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_GMMKV296US-white.webp"
+   },
+   {
+    "id": "pink",
+    "label": "Pink",
+    "hex": "#F7C7D9",
+    "file": "Keyboard_GMMKV296US-pink.webp"
+   }
+  ]
+ },
+ "GMMKV296ISO": {
+  "image": "Keyboard_GMMKV296ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKV296ISO-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_GMMKV296ISO-white.webp"
+   },
+   {
+    "id": "pink",
+    "label": "Pink",
+    "hex": "#F7C7D9",
+    "file": "Keyboard_GMMKV296ISO-pink.webp"
+   }
+  ]
+ },
+ "GMBK75ANSI": {
+  "image": "Keyboard_GMBK",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMBK-black.webp"
+   }
+  ]
+ },
+ "GMBK75ISO": {
+  "image": "Keyboard_GMBKISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMBKISO-black.webp"
+   }
+  ]
+ },
+ "ModelDMinusWireless": {
+  "image": "Mouse_ModelDMinusWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelDMinusWireless-black.webp",
+    "mask": "Mouse_ModelDMinusWireless-black-mask.webp",
+    "map": "Mouse_ModelDMinusWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelDMinusWireless-white.webp",
+    "mask": "Mouse_ModelDMinusWireless-white-mask.webp",
+    "map": "Mouse_ModelDMinusWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      335.8,
+      59
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.6,
+      81.3
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      415.5,
+      59
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.6,
+      146.7
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      299,
+      149.7
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      301.4,
+      198
+     ]
+    }
+   ],
+   "bbox": [
+    290.4,
+    27.4,
+    462.2,
+    354.2
+   ]
+  }
+ },
+ "ModelDWireless": {
+  "image": "Mouse_ModelDWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelDWireless-black.webp",
+    "mask": "Mouse_ModelDWireless-black-mask.webp",
+    "map": "Mouse_ModelDWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelDWireless-white.webp",
+    "mask": "Mouse_ModelDWireless-white-mask.webp",
+    "map": "Mouse_ModelDWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      337.8,
+      49
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.6,
+      81.3
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      413.5,
+      49
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.6,
+      146.7
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      299,
+      149.7
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      301.4,
+      198
+     ]
+    }
+   ],
+   "bbox": [
+    290.4,
+    27.4,
+    462.2,
+    354.2
+   ]
+  }
+ },
+ "ModelD2MinusWired": {
+  "image": "Mouse_ModelD2Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD2Wired-black.webp",
+    "mask": "Mouse_ModelD2Wired-black-mask.webp",
+    "map": "Mouse_ModelD2Wired-black-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      341.4,
+      69
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.8,
+      104
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      410.2,
+      69
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.8,
+      166
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      306.3,
+      169.4
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      308.9,
+      217
+     ]
+    }
+   ],
+   "bbox": [
+    294.4,
+    0.0,
+    457.8,
+    355.1
+   ]
+  }
+ },
+ "ModelD2Pro4k8kWireless": {
+  "image": "Mouse_ModelD2ProWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD2ProWireless-black.webp",
+    "map": "Mouse_ModelD2ProWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelD2ProWireless-white.webp",
+    "map": "Mouse_ModelD2ProWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      344.2,
+      59
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      381.9,
+      86.3
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      419.6,
+      59
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      382.1,
+      148.3
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      307.7,
+      150.1
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      310.3,
+      201.9
+     ]
+    }
+   ],
+   "bbox": [
+    106.3,
+    0.0,
+    707.1,
+    371.9
+   ]
+  }
+ },
+ "ModelD2ProWireless": {
+  "image": "Mouse_ModelD2ProWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD2ProWireless-black.webp",
+    "map": "Mouse_ModelD2ProWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelD2ProWireless-white.webp",
+    "map": "Mouse_ModelD2ProWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      344.2,
+      59
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      381.9,
+      86.3
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      419.6,
+      59
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      382.1,
+      148.3
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      307.7,
+      150.1
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      310.3,
+      201.9
+     ]
+    }
+   ],
+   "bbox": [
+    106.3,
+    0.0,
+    707.1,
+    371.9
+   ]
+  }
+ },
+ "ModelIWired": {
+  "image": "Mouse_ModelIWired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelIWired-black.webp",
+    "mask": "Mouse_ModelIWired-black-mask.webp",
+    "map": "Mouse_ModelIWired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelIWired-white.webp",
+    "mask": "Mouse_ModelIWired-white-mask.webp",
+    "map": "Mouse_ModelIWired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      350,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "right",
+     "point": [
+      381.6,
+      90.8
+     ]
+    },
+    {
+     "id": "DPIShiftButton",
+     "side": "left",
+     "point": [
+      295,
+      149
+     ]
+    },
+    {
+     "id": "HomeButton",
+     "side": "left",
+     "point": [
+      295,
+      168
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      297,
+      190
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      300,
+      224
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      420,
+      64
+     ]
+    },
+    {
+     "id": "DPIUpButton",
+     "side": "right",
+     "point": [
+      380.3,
+      145.7
+     ]
+    },
+    {
+     "id": "DPIDownButton",
+     "side": "right",
+     "point": [
+      380.3,
+      171.8
+     ]
+    }
+   ],
+   "bbox": [
+    271.4,
+    0.0,
+    460.9,
+    360.4
+   ]
+  }
+ },
+ "ModelI2Wired": {
+  "image": "Mouse_ModelI2Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelI2Wired-black.webp",
+    "mask": "Mouse_ModelI2Wired-black-mask.webp",
+    "map": "Mouse_ModelI2Wired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelI2Wired-white.webp",
+    "mask": "Mouse_ModelI2Wired-white-mask.webp",
+    "map": "Mouse_ModelI2Wired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      350,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "right",
+     "point": [
+      385.6,
+      93.9
+     ]
+    },
+    {
+     "id": "DPIShiftButton",
+     "side": "left",
+     "point": [
+      301.5,
+      149
+     ]
+    },
+    {
+     "id": "HomeButton",
+     "side": "left",
+     "point": [
+      302.6,
+      165.9
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      305.1,
+      198
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      308.3,
+      240
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      420,
+      64
+     ]
+    },
+    {
+     "id": "DPIUpButton",
+     "side": "right",
+     "point": [
+      383.4,
+      153.6
+     ]
+    },
+    {
+     "id": "DPIDownButton",
+     "side": "right",
+     "point": [
+      383.4,
+      180.2
+     ]
+    }
+   ],
+   "bbox": [
+    277.2,
+    0.0,
+    460.0,
+    362.6
+   ]
+  }
+ },
+ "ModelI2Wireless": {
+  "image": "Mouse_ModelI2Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelI2Wireless-black.webp",
+    "mask": "Mouse_ModelI2Wireless-black-mask.webp",
+    "map": "Mouse_ModelI2Wireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelI2Wireless-white.webp",
+    "mask": "Mouse_ModelI2Wireless-white-mask.webp",
+    "map": "Mouse_ModelI2Wireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      350,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "right",
+     "point": [
+      385.6,
+      93.9
+     ]
+    },
+    {
+     "id": "DPIShiftButton",
+     "side": "left",
+     "point": [
+      301.5,
+      149
+     ]
+    },
+    {
+     "id": "HomeButton",
+     "side": "left",
+     "point": [
+      302.6,
+      165.9
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      305.1,
+      198
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      308.3,
+      240
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      420,
+      64
+     ]
+    },
+    {
+     "id": "DPIUpButton",
+     "side": "right",
+     "point": [
+      383.4,
+      153.6
+     ]
+    },
+    {
+     "id": "DPIDownButton",
+     "side": "right",
+     "point": [
+      383.4,
+      180.2
+     ]
+    }
+   ],
+   "bbox": [
+    276.7,
+    34.1,
+    460.4,
+    363.0
+   ]
+  }
+ },
+ "ModelOMinusWireless": {
+  "image": "Mouse_ModelOMinusWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelOMinusWireless-black.webp",
+    "mask": "Mouse_ModelOMinusWireless-black-mask.webp",
+    "map": "Mouse_ModelOMinusWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelOMinusWireless-white.webp",
+    "mask": "Mouse_ModelOMinusWireless-white-mask.webp",
+    "map": "Mouse_ModelOMinusWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      341.0,
+      44
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      376.4,
+      78.6
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      411.8,
+      44
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      376.4,
+      128.3
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      296.1,
+      138
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      297.4,
+      176.5
+     ]
+    }
+   ],
+   "bbox": [
+    291.3,
+    22.6,
+    460.4,
+    350.2
+   ]
+  }
+ },
+ "ModelOProWireless": {
+  "image": "Mouse_ModelOProWireless",
+  "colors": [
+   {
+    "id": "bluelynx",
+    "label": "BlueLynx",
+    "hex": "#70b4c5",
+    "file": "Mouse_ModelOProWireless-bluelynx.webp",
+    "map": "Mouse_ModelOProWireless-bluelynx-map.webp"
+   },
+   {
+    "id": "goldenpanda",
+    "label": "GoldenPanda",
+    "hex": "#f1db92",
+    "file": "Mouse_ModelOProWireless-goldenpanda.webp",
+    "map": "Mouse_ModelOProWireless-goldenpanda-map.webp"
+   },
+   {
+    "id": "redfox",
+    "label": "RedFox",
+    "hex": "#dd8a74",
+    "file": "Mouse_ModelOProWireless-redfox.webp",
+    "map": "Mouse_ModelOProWireless-redfox-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      337.4,
+      44
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      376.4,
+      75.8
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      415.4,
+      44
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.9,
+      129.5
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      295.8,
+      135
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      297.9,
+      174.7
+     ]
+    }
+   ],
+   "bbox": [
+    288.2,
+    15.1,
+    463.1,
+    350.6
+   ]
+  }
+ },
+ "ModelOWired": {
+  "image": "Mouse_ModelOWired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelOWired-black.webp",
+    "mask": "Mouse_ModelOWired-black-mask.webp",
+    "map": "Mouse_ModelOWired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelOWired-white.webp",
+    "mask": "Mouse_ModelOWired-white-mask.webp",
+    "map": "Mouse_ModelOWired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      333.4,
+      49
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      368.2,
+      87.2
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      403.0,
+      49
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      368.0,
+      139.7
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      290.7,
+      144.7
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      292.4,
+      183
+     ]
+    }
+   ],
+   "bbox": [
+    283.8,
+    0.0,
+    452.5,
+    352.0
+   ]
+  }
+ },
+ "ModelOWireless": {
+  "image": "Mouse_ModelOWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelOWireless-black.webp",
+    "mask": "Mouse_ModelOWireless-black-mask.webp",
+    "map": "Mouse_ModelOWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelOWireless-white.webp",
+    "mask": "Mouse_ModelOWireless-white-mask.webp",
+    "map": "Mouse_ModelOWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      339.2,
+      49
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      376.4,
+      78.6
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      413.6,
+      49
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      376.4,
+      128.3
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      296.1,
+      138
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      297.4,
+      176.5
+     ]
+    }
+   ],
+   "bbox": [
+    291.3,
+    22.6,
+    460.4,
+    350.2
+   ]
+  }
+ },
+ "ModelO2MiniWired": {
+  "image": "Mouse_ModelO2Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO2Wired-black.webp",
+    "mask": "Mouse_ModelO2Wired-black-mask.webp",
+    "map": "Mouse_ModelO2Wired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO2Wired-white.webp",
+    "mask": "Mouse_ModelO2Wired-white-mask.webp",
+    "map": "Mouse_ModelO2Wired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      339.4,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.5,
+      94
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      411.6,
+      64
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.6,
+      145
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      298.9,
+      152
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      298.9,
+      191.8
+     ]
+    }
+   ],
+   "bbox": [
+    293.1,
+    0.0,
+    457.8,
+    357.3
+   ]
+  }
+ },
+ "ModelO2MiniWireless": {
+  "image": "Mouse_ModelO2Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO2Wireless-black.webp",
+    "mask": "Mouse_ModelO2Wireless-black-mask.webp",
+    "map": "Mouse_ModelO2Wireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO2Wireless-white.webp",
+    "mask": "Mouse_ModelO2Wireless-white-mask.webp",
+    "map": "Mouse_ModelO2Wireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      339.2,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.5,
+      94
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      411.8,
+      64
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.6,
+      145
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      298.9,
+      152
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      298.9,
+      191.8
+     ]
+    }
+   ],
+   "bbox": [
+    293.1,
+    40.7,
+    457.3,
+    357.3
+   ]
+  }
+ },
+ "ModelO2Pro4k8kWireless": {
+  "image": "Mouse_ModelO2ProWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO2ProWireless-black.webp",
+    "map": "Mouse_ModelO2ProWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO2ProWireless-white.webp",
+    "map": "Mouse_ModelO2ProWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      347.5,
+      54
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      381.4,
+      86.8
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      415.3,
+      54
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      381.6,
+      134
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      303.7,
+      144.8
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      304.6,
+      184
+     ]
+    }
+   ],
+   "bbox": [
+    298.0,
+    34.5,
+    464.4,
+    355.1
+   ]
+  }
+ },
+ "ModelO2ProWireless": {
+  "image": "Mouse_ModelO2ProWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO2ProWireless-black.webp",
+    "map": "Mouse_ModelO2ProWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO2ProWireless-white.webp",
+    "map": "Mouse_ModelO2ProWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      347.5,
+      54
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      381.4,
+      86.8
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      415.3,
+      54
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      381.6,
+      134
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      303.7,
+      144.8
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      304.6,
+      184
+     ]
+    }
+   ],
+   "bbox": [
+    298.0,
+    34.5,
+    464.4,
+    355.1
+   ]
+  }
+ },
+ "ModelO2Wired": {
+  "image": "Mouse_ModelO2Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO2Wired-black.webp",
+    "mask": "Mouse_ModelO2Wired-black-mask.webp",
+    "map": "Mouse_ModelO2Wired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO2Wired-white.webp",
+    "mask": "Mouse_ModelO2Wired-white-mask.webp",
+    "map": "Mouse_ModelO2Wired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      338.4,
+      69
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.5,
+      94
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      412.6,
+      69
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.6,
+      145
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      298.9,
+      152
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      298.9,
+      191.8
+     ]
+    }
+   ],
+   "bbox": [
+    293.1,
+    0.0,
+    457.8,
+    357.3
+   ]
+  }
+ },
+ "ModelO2Wireless": {
+  "image": "Mouse_ModelO2Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO2Wireless-black.webp",
+    "mask": "Mouse_ModelO2Wireless-black-mask.webp",
+    "map": "Mouse_ModelO2Wireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO2Wireless-white.webp",
+    "mask": "Mouse_ModelO2Wireless-white-mask.webp",
+    "map": "Mouse_ModelO2Wireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      338.4,
+      69
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.5,
+      94
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      412.6,
+      69
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.6,
+      145
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      298.9,
+      152
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      298.9,
+      191.8
+     ]
+    }
+   ],
+   "bbox": [
+    293.1,
+    40.7,
+    457.3,
+    357.3
+   ]
+  }
+ },
+ "SeriesOneProWireless": {
+  "image": "Mouse_SeriesOneProWireless",
+  "colors": [
+   {
+    "id": "centauri",
+    "label": "Centauri",
+    "hex": "#db1a3c",
+    "file": "Mouse_SeriesOneProWireless-centauri.webp",
+    "map": "Mouse_SeriesOneProWireless-centauri-map.webp"
+   },
+   {
+    "id": "genos",
+    "label": "Genos",
+    "hex": "#f0a229",
+    "file": "Mouse_SeriesOneProWireless-genos.webp",
+    "map": "Mouse_SeriesOneProWireless-genos-map.webp"
+   },
+   {
+    "id": "vidar",
+    "label": "Vidar",
+    "hex": "#4085dc",
+    "file": "Mouse_SeriesOneProWireless-vidar.webp",
+    "map": "Mouse_SeriesOneProWireless-vidar-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      337.1,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      377.6,
+      83
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      418.1,
+      64
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      377.4,
+      135.3
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      295.4,
+      146
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      299.4,
+      192
+     ]
+    }
+   ],
+   "bbox": [
+    290.0,
+    19.9,
+    463.5,
+    352.0
+   ]
+  }
+ },
+ "SeriesTwoProWireless": {
+  "image": "Mouse_Series2ProWireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_Series2ProWireless-black.webp",
+    "map": "Mouse_Series2ProWireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_Series2ProWireless-white.webp",
+    "map": "Mouse_Series2ProWireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      341.5,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      377.8,
+      99
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      414.1,
+      64
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      378.2,
+      151.4
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      300.2,
+      164.2
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      303.3,
+      206.5
+     ]
+    }
+   ],
+   "bbox": [
+    294.9,
+    42.1,
+    459.6,
+    358.2
+   ]
+  }
+ },
+ "ModelD2Wireless": {
+  "image": "Mouse_ModelD2Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD2Wireless-black.webp",
+    "mask": "Mouse_ModelD2Wireless-black-mask.webp",
+    "map": "Mouse_ModelD2Wireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelD2Wireless-white.webp",
+    "mask": "Mouse_ModelD2Wireless-white-mask.webp",
+    "map": "Mouse_ModelD2Wireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      341.1,
+      69
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.8,
+      104
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      410.5,
+      69
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.8,
+      166
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      306.3,
+      169.4
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      308.9,
+      217
+     ]
+    }
+   ],
+   "bbox": [
+    294.4,
+    46.9,
+    457.8,
+    355.1
+   ]
+  }
+ },
+ "ModelD2Wired": {
+  "image": "Mouse_ModelD2Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD2Wired-black.webp",
+    "mask": "Mouse_ModelD2Wired-black-mask.webp",
+    "map": "Mouse_ModelD2Wired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelD2Wired-white.webp",
+    "mask": "Mouse_ModelD2Wired-white-mask.webp",
+    "map": "Mouse_ModelD2Wired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      341.4,
+      69
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      375.8,
+      104
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      410.2,
+      69
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      375.8,
+      166
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      306.3,
+      169.4
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      308.9,
+      217
+     ]
+    }
+   ],
+   "bbox": [
+    294.4,
+    0.0,
+    457.8,
+    355.1
+   ]
+  }
+ },
+ "ModelO3Wireless": {
+  "image": "Mouse_ModelO3Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO3Wireless-black.webp",
+    "mask": "Mouse_ModelO3Wireless-black-mask.webp",
+    "map": "Mouse_ModelO3Wireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelO3Wireless-white.webp",
+    "mask": "Mouse_ModelO3Wireless-white-mask.webp",
+    "map": "Mouse_ModelO3Wireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      339.1,
+      79
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      373.8,
+      105.1
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      408.6,
+      79
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      373.2,
+      153.1
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      297.7,
+      170.6
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      299.1,
+      212.3
+     ]
+    }
+   ],
+   "bbox": [
+    294.0,
+    46.5,
+    453.8,
+    359.1
+   ]
+  }
+ },
+ "ModelO3Wired": {
+  "image": "Mouse_ModelO3Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelO3Wired-black.webp",
+    "mask": "Mouse_ModelO3Wired-black-mask.webp",
+    "map": "Mouse_ModelO3Wired-black-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      339.1,
+      79
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      373.8,
+      102.8
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      408.6,
+      79
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      373.2,
+      150.8
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      297.7,
+      168.3
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      299.1,
+      210
+     ]
+    }
+   ],
+   "bbox": [
+    294.0,
+    0.0,
+    453.8,
+    356.8
+   ]
+  }
+ },
+ "ModelOWirelessClassic": {
+  "image": "Mouse_ModelOWirelessClassic",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelOWirelessClassic-black.webp",
+    "mask": "Mouse_ModelOWirelessClassic-black-mask.webp",
+    "map": "Mouse_ModelOWirelessClassic-black-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      339.1,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      373.9,
+      100.5
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      408.6,
+      64
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      373.3,
+      151.9
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      297.3,
+      159
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      299.8,
+      198.6
+     ]
+    }
+   ],
+   "bbox": [
+    291.8,
+    43.4,
+    456.9,
+    361.7
+   ]
+  }
+ },
+ "ModelDProWireless": {
+  "image": "Mouse_ModelDProWireless",
+  "colors": [
+   {
+    "id": "flamingo",
+    "label": "Flamingo",
+    "hex": "#eb96a4",
+    "file": "Mouse_ModelDProWireless-flamingo.webp",
+    "map": "Mouse_ModelDProWireless-flamingo-map.webp"
+   },
+   {
+    "id": "skyline",
+    "label": "Skyline",
+    "hex": "#79c1e5",
+    "file": "Mouse_ModelDProWireless-skyline.webp",
+    "map": "Mouse_ModelDProWireless-skyline-map.webp"
+   },
+   {
+    "id": "vice",
+    "label": "Vice",
+    "hex": "#707070",
+    "file": "Mouse_ModelDProWireless-vice.webp",
+    "map": "Mouse_ModelDProWireless-vice-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      337.7,
+      44
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      377.3,
+      73.6
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      416.9,
+      44
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      377.2,
+      144.2
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      300.3,
+      143.6
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      300.7,
+      195
+     ]
+    }
+   ],
+   "bbox": [
+    288.2,
+    13.3,
+    467.5,
+    350.6
+   ]
+  }
+ },
+ "ModelOEternal": {
+  "image": "Mouse_ModelOEternalWired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelOEternalWired-black.webp",
+    "mask": "Mouse_ModelOEternalWired-black-mask.webp",
+    "map": "Mouse_ModelOEternalWired-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelOEternalWired-white.webp",
+    "mask": "Mouse_ModelOEternalWired-white-mask.webp",
+    "map": "Mouse_ModelOEternalWired-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      341.1,
+      64
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      373.8,
+      92.9
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      406.5,
+      64
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      373.8,
+      166
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      296.6,
+      171.1
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      300.1,
+      214.3
+     ]
+    }
+   ],
+   "bbox": [
+    290.9,
+    0.0,
+    456.9,
+    359.5
+   ]
+  }
+ },
+ "GMMK3PROHE100WiredANSI": {
+  "image": "Keyboard_Magneton100",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton100-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton100-white.webp"
+   }
+  ]
+ },
+ "GMMK3PROHE100WiredISO": {
+  "image": "Keyboard_Magneton100",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_Magneton100-black.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Keyboard_Magneton100-white.webp"
+   }
+  ]
+ },
+ "GMMKPROANSIALT": {
+  "image": "Keyboard_GMMKPRO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKPRO-black.webp"
+   }
+  ]
+ },
+ "GMMKPROISOALT": {
+  "image": "Keyboard_GMMKPROISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKPROISO-black.webp"
+   }
+  ]
+ },
+ "ModelD3Wired": {
+  "image": "Mouse_ModelD3Wired",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD3Wired-black.webp",
+    "mask": "Mouse_ModelD3Wired-black-mask.webp",
+    "map": "Mouse_ModelD3Wired-black-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      336.3,
+      79
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      373.7,
+      103.2
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      411.1,
+      79
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      373.6,
+      154.6
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      297.9,
+      166.2
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      301.4,
+      213.1
+     ]
+    }
+   ],
+   "bbox": [
+    293.1,
+    0.0,
+    459.1,
+    353.7
+   ]
+  }
+ },
+ "ModelD3Wireless": {
+  "image": "Mouse_ModelD3Wireless",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Mouse_ModelD3Wireless-black.webp",
+    "mask": "Mouse_ModelD3Wireless-black-mask.webp",
+    "map": "Mouse_ModelD3Wireless-black-map.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Mouse_ModelD3Wireless-white.webp",
+    "mask": "Mouse_ModelD3Wireless-white-mask.webp",
+    "map": "Mouse_ModelD3Wireless-white-map.webp"
+   }
+  ],
+  "layout": {
+   "width": 750,
+   "height": 372,
+   "items": [
+    {
+     "id": "LeftButton",
+     "side": "left",
+     "point": [
+      336.3,
+      79
+     ]
+    },
+    {
+     "id": "MiddleButton",
+     "side": "left",
+     "point": [
+      373.7,
+      105
+     ]
+    },
+    {
+     "id": "RightButton",
+     "side": "right",
+     "point": [
+      411.1,
+      79
+     ]
+    },
+    {
+     "id": "DPICycleButton",
+     "side": "right",
+     "point": [
+      373.6,
+      156.4
+     ]
+    },
+    {
+     "id": "ForwardButton",
+     "side": "left",
+     "point": [
+      297.9,
+      168
+     ]
+    },
+    {
+     "id": "BackButton",
+     "side": "left",
+     "point": [
+      301.4,
+      214.9
+     ]
+    }
+   ],
+   "bbox": [
+    293.1,
+    49.1,
+    459.1,
+    355.5
+   ]
+  }
+ },
+ "A2": {
+  "image": "Audio2",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Audio2-black.webp",
+    "mask": "Audio2-black-mask.webp"
+   },
+   {
+    "id": "white",
+    "label": "White",
+    "hex": "#EDEDFF",
+    "file": "Audio2-white.webp",
+    "mask": "Audio2-white-mask.webp"
+   }
+  ]
+ },
+ "GMMKETERNAL96ANSI": {
+  "image": "Keyboard_GMMKEternal96ANSI",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKEternal96ANSI-black.webp",
+    "mask": "Keyboard_GMMKEternal96ANSI-black-mask.webp"
+   }
+  ]
+ },
+ "GMMKETERNAL96ISO": {
+  "image": "Keyboard_GMMKEternal96ISO",
+  "colors": [
+   {
+    "id": "black",
+    "label": "Black",
+    "hex": "#121212",
+    "file": "Keyboard_GMMKEternal96ISO-black.webp",
+    "mask": "Keyboard_GMMKEternal96ISO-black-mask.webp"
+   }
+  ]
+ }
+}
